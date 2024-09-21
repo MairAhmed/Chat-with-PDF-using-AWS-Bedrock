@@ -17,19 +17,19 @@ Ask questions from PDFs in real-time and receive accurate answers based on the c
 # Installation
 Clone the repository:
 
-git clone https://github.com/your-repo/your-app.git
+     git clone https://github.com/your-repo/your-app.git
 
-cd your-app
+     cd your-app
 
 # Install the required dependencies:
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Set up your AWS credentials to access Bedrock.
 
 # Usage
 Run the App:
 
-streamlit run app.py
+    streamlit run app.py
 
 Ingest PDFs:
 
